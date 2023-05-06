@@ -1,0 +1,4 @@
+# exclude workspace cache
+.obsidian/workspace.json
+
+.DS_Store
